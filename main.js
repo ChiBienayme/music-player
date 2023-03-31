@@ -12,8 +12,6 @@
     10. Play song when click
 */
 
-// Some songs may be faulty due to broken links. Please replace another link so that it can be played
-
 const $ = document.querySelector.bind(document);
 const $$ = document.querySelectorAll.bind(document);
 
